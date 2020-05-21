@@ -1,0 +1,6 @@
+
+*.CopyComplete
+*.cache
+AutoRecenterDisabler/obj/Release/AutoRecenterDisabler.csproj.FileListAbsolute.txt
+*.dll
+*.pdb
